@@ -5,6 +5,8 @@ In case the presentation page does not display correctly, the readme file that d
 
 [Repository for Project 2](https://github.com/aramsing/project2.Arjun.Ramsinghani.github.io)
 
+[Presentation Video Link](https://youtu.be/jjtEnrLhvNI)
+
 # For Part C:
 The following images are what I had in mind for how a smart mirror should look.
 
